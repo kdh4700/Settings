@@ -14,7 +14,7 @@ git은 각 파일을 스냅샷 형식으로 저장하여 각 스냅샷 버전으
 - 가지 치기와 병합
 e.g. 여러가지 작업 시 다른 작업을 독립적으로 진행이 가능하며 추후 병합 적용 가능
 
-![1%E1%84%8C%E1%85%A1%E1%86%BC%20Git%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A1%E1%86%AB%2036bf01fa790e4e1f82b0b1c1f20fead6/Untitled.png](1%E1%84%8C%E1%85%A1%E1%86%BC%20Git%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A1%E1%86%AB%2036bf01fa790e4e1f82b0b1c1f20fead6/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/51807451/147663052-66bb8d5c-cc1a-404f-89b3-8e060c466d5b.png)
 
 - 가볍고 빠르다. 
 대부분의 git 작업은 로컬에서 작업 (svn에 모든 코드는 중앙시스템 git은 모든 코드가 로컬에 있고 수정 병합 시에만 중앙시스템 이용)
